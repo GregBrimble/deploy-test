@@ -1,3 +1,4 @@
 {
-  "name": "my-worker-deploy-test-package"
+  "name": "my-worker-deploy-test-package",
+  "scripts": {}
 }
